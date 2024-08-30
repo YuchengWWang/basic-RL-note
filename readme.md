@@ -1,1 +1,1 @@
-Script with line-by-line annotation on maniskill
+Script with line-by-line comments on maniskill
