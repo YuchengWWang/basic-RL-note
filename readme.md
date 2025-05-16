@@ -1,1 +1,1 @@
-Script with line-by-line comments on ppo in maniskill
+Notes and script with line-by-line comments on ppo in maniskill
